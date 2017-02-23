@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Francis</string>
+    <string name="display_info">Display Info</string>
+    <string name="password">Password</string>
+    <string name="save_info">Save Info</string>
+    <string name="user_name">User Name</string>
+</resources>
